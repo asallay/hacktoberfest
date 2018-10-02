@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Arnold Sallay](https://github.com/asallay)
+- Place: Sopron, Hungary
+- Bio: Web developer
+- Github: [asallay](https://github.com/asallay)
